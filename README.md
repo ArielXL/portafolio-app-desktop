@@ -16,5 +16,5 @@ Un desarollador de aplicaciones de escritorio es el encargado de establecer par�
 
 ## Link
 
-Puedes acceder a él y verlo en la web haciendo click [aquí](https://ArielXL/portafolio-app-desktop/portafolio-es/index.html).
+Puedes acceder a él y verlo en la web haciendo click [aquí](https://arielxl.github.io/portafolio-app-desktop).
 
